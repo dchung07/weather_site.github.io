@@ -72,3 +72,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 3rem;
   }
+
+  #card {
+    display: none;
+  }
+
+  .error {
+    display: none;
+  }
